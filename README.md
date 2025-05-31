@@ -44,9 +44,9 @@ Manual loan approval processes are slow, inconsistent, and prone to error. In tr
 ##  Presentation
 See: `ppt/Final_Loan_Approval_Project_PPT.pptx`
 
-## 📜 License
+##  License
 MIT License
 
-## 🙋‍♂️ Author
+##  Author
 - Y.Srujan Kumar
 - AICTE Internship – Microsoft Azure AI Track
